@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# How to talk to the Beast
 
 To enter your api key: Go to the file src/pages/Ethics.js and replace the key with your own
 
