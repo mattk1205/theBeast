@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+To enter your api key: Go to the file src/pages/Ethics.js and replace the key with your own
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
