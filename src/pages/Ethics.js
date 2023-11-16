@@ -5,7 +5,7 @@ import "../styles/Ethics.css";
 import video2 from "../assets/EthicsBackground.mp4"
 
 const openai = new OpenAI({
-    apiKey: "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",
+    apiKey: "",
     dangerouslyAllowBrowser: true
 });
 
