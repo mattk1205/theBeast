@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/theBeast/static/css/main.1b35d41a.css",
-    "main.js": "/theBeast/static/js/main.14f7c951.js",
-    "static/js/787.55c7a798.chunk.js": "/theBeast/static/js/787.55c7a798.chunk.js",
-    "static/media/TechBackground.mp4": "/theBeast/static/media/TechBackground.9a63abfd19151ca014c9.mp4",
-    "static/media/EthicsBackground.mp4": "/theBeast/static/media/EthicsBackground.66c77483a3fdad1e3aa7.mp4",
-    "static/media/BackgroundVideo.mp4": "/theBeast/static/media/BackgroundVideo.01e326c913dcb8c0a497.mp4",
-    "static/media/Company-Logo.png": "/theBeast/static/media/Company-Logo.529b104fe829bade37b6.png",
-    "static/media/Company-Logo-Hover.png": "/theBeast/static/media/Company-Logo-Hover.eeb20b10b66ff1de5bf0.png",
-    "index.html": "/theBeast/index.html",
-    "main.1b35d41a.css.map": "/theBeast/static/css/main.1b35d41a.css.map",
-    "main.14f7c951.js.map": "/theBeast/static/js/main.14f7c951.js.map",
-    "787.55c7a798.chunk.js.map": "/theBeast/static/js/787.55c7a798.chunk.js.map"
+    "main.css": "/theBeast/src/index.js/static/css/main.1b35d41a.css",
+    "main.js": "/theBeast/src/index.js/static/js/main.29bfe592.js",
+    "static/js/787.55c7a798.chunk.js": "/theBeast/src/index.js/static/js/787.55c7a798.chunk.js",
+    "static/media/TechBackground.mp4": "/theBeast/src/index.js/static/media/TechBackground.9a63abfd19151ca014c9.mp4",
+    "static/media/EthicsBackground.mp4": "/theBeast/src/index.js/static/media/EthicsBackground.66c77483a3fdad1e3aa7.mp4",
+    "static/media/BackgroundVideo.mp4": "/theBeast/src/index.js/static/media/BackgroundVideo.01e326c913dcb8c0a497.mp4",
+    "static/media/Company-Logo.png": "/theBeast/src/index.js/static/media/Company-Logo.529b104fe829bade37b6.png",
+    "static/media/Company-Logo-Hover.png": "/theBeast/src/index.js/static/media/Company-Logo-Hover.eeb20b10b66ff1de5bf0.png",
+    "index.html": "/theBeast/src/index.js/index.html",
+    "main.1b35d41a.css.map": "/theBeast/src/index.js/static/css/main.1b35d41a.css.map",
+    "main.29bfe592.js.map": "/theBeast/src/index.js/static/js/main.29bfe592.js.map",
+    "787.55c7a798.chunk.js.map": "/theBeast/src/index.js/static/js/787.55c7a798.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b35d41a.css",
-    "static/js/main.14f7c951.js"
+    "static/js/main.29bfe592.js"
   ]
 }
